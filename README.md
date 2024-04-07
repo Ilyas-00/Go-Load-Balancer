@@ -38,6 +38,7 @@ The project consists of several main components:
    ```bash
    git clone https://github.com/Ilyas-00/Go-Load-Balancer.git
   -  Run the main program:
-go run main.go
-
-The load balancer will start listening for requests on the specified port.
+```bash
+  go run main.go
+```
+  -  The load balancer will start listening for requests on the specified port.
