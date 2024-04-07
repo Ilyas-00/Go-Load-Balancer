@@ -35,10 +35,11 @@ The project consists of several main components:
 ## Usage :rocket:
 
 1. Clone the project from the GitHub repository:
-   ```bash
+ ```bash
    git clone https://github.com/Ilyas-00/Go-Load-Balancer.git
+ ```
   -  Run the main program:
-```bash
-  go run main.go
-```
+  ```bash
+    go run main.go
+  ```
   -  The load balancer will start listening for requests on the specified port.
