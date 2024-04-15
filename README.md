@@ -9,7 +9,7 @@ The project consists of several main components:
 ### 1. Simple Server (`SimpleServer`) :gear:
 
 - **Features**:
-  - Manages a single backend server.
+  - Manages a single backend server. 
   - Checks the server's health status.
 
 - **Methods**:
